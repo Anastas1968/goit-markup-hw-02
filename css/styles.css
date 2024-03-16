@@ -1,14 +1,28 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
   background-color: #ffff;
   font-size: ;
 }
 header {
+  font-weight: 500;
   background-color: #e7e9fc;
   color: #2e2f42;
   font-size: 16px;
   line-height: 24px;
+  letter-spacing: 0.02em;
+}
+.log {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.studio {
+  color: #2e2f42;
 }
 .link {
   color: #2e2f42;
@@ -16,9 +30,13 @@ header {
 .link:hover {
   color: #404bbf;
 }
+.address {
+  font-style: normal;
+}
 .section1 {
   background-color: #2e2f42;
   color: #ffff;
+  font-size: 56px;
 }
 .but-link {
   background-color: #4d5ae5;

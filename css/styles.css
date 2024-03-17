@@ -44,6 +44,11 @@ link:focus {
   text-align: center;
   letter-spacing: 0.02em;
 }
+.Effective {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
 .but-link {
   background-color: #4d5ae5;
   font-weight: 500;
@@ -51,11 +56,11 @@ link:focus {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
 .but-link .link:hover,
 .but-link .link:focus {
   background-color: #404bbf;
-  cursor: pointer;
 }
 .two {
 }

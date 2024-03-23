@@ -45,7 +45,7 @@ a {
 .link-address{
   color: #434455;
 }
-.link-address .link:hover{
+.link-address .link-address:hover{
   color: #404bbf;
 }
 .link-address .link-address:focus{

@@ -75,11 +75,9 @@ a {
 }
 .but-link:hover {
   background-color: #404bbf;
-  color: #434455;
 }
 .but-link:focus {
   background-color: #404bbf;
-  color: #404bbf;
 }
 .two {
 }

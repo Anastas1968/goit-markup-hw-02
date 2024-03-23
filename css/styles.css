@@ -31,7 +31,7 @@ a {
   color: #2e2f42;
 }
 .link {
-  color: #2e2f42
+  color: #2e2f42;
 }
 .link:hover {
   color: #404bbf;
@@ -74,11 +74,11 @@ a {
   cursor: pointer;
 }
 .but-link:hover {
-  background-color: #404BBF
+  background-color: #404bbf;
   color: #434455;
 }
 .but-link:focus {
-  background-color: #404BBF
+  background-color: #404bbf;
   color: #404bbf;
 }
 .two {

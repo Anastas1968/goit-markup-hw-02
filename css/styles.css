@@ -31,7 +31,7 @@ a {
   color: #2e2f42;
 }
 .link {
-  color:  #2e2f42;
+  color: #434455;
 }
 .link:hover {
   color: #404bbf;
@@ -41,6 +41,9 @@ a {
 }
 .address {
   font-style: normal;
+}
+.link-address{
+  color: #434455;
 }
 .sec {
   background-color: #2e2f42;

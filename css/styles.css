@@ -48,7 +48,7 @@ a {
 .link-address .link:hover{
   color: #404bbf;
 }
-.link-address .link:focus{
+.link-address .link-address:focus{
   color: #404bbf;
 }
 .sec {

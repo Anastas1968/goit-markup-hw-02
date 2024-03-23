@@ -45,10 +45,10 @@ a {
 .link-address{
   color: #434455;
 }
-.link-address .link-address:hover{
+.link-address:hover{
   color: #404bbf;
 }
-.link-address .link-address:focus{
+.link-address:focus{
   color: #404bbf;
 }
 .sec {
@@ -73,11 +73,11 @@ a {
   color: #ffffff;
   cursor: pointer;
 }
-.but-link .link:hover {
+.but-link:hover {
   background-color: #404BBF
   color: #434455;
 }
-.but-link .link:focus {
+.but-link:focus {
   background-color: #404BBF
   color: #404bbf;
 }

@@ -80,7 +80,6 @@ a {
   background-color: #404bbf;
 }
 .two {
-  background-color: #f4f4fd;
 }
 .title-three {
   font-weight: 500;
@@ -94,4 +93,9 @@ a {
   letter-spacing: 0.02em;
 }
 .three {
+  background-color: #f4f4fd;
+}
+.medium-title {
+  font-size: 36px;
+  line-height: 1.11;
 }

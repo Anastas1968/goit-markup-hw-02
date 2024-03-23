@@ -42,13 +42,13 @@ a {
 .address {
   font-style: normal;
 }
-.link-address{
+.link-address {
   color: #434455;
 }
-.link-address:hover{
+.link-address:hover {
   color: #404bbf;
 }
-.link-address:focus{
+.link-address:focus {
   color: #404bbf;
 }
 .sec {

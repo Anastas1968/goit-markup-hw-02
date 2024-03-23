@@ -12,6 +12,12 @@ header {
   line-height: 24px;
   letter-spacing: 0.02em;
 }
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
 .log {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -25,12 +31,12 @@ header {
   color: #2e2f42;
 }
 .link {
-  color: #2e2f42;
+  color: #434455;
 }
 .link:hover {
   color: #404bbf;
 }
-link:focus {
+.link:focus {
   color: #404bbf;
 }
 .address {
@@ -58,9 +64,13 @@ link:focus {
   color: #ffffff;
   cursor: pointer;
 }
-.but-link .link:hover,
+.but-link .link:hover {
+  background-color: #404BBF
+  color: #434455;
+}
 .but-link .link:focus {
-  background-color: #404bbf;
+  background-color: #404BBF
+  color: #404bbf;
 }
 .two {
 }

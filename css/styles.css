@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #e7e9fc;
+  background-color: #ffffff;
   font-size: ;
 }
 header {
@@ -80,4 +80,15 @@ a {
   background-color: #404bbf;
 }
 .two {
+}
+.title-three {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.paragraph {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
